@@ -9,7 +9,7 @@
     border: 1px solid transparent;
     width: 100%;
     height: 100vh;
-    background-image: url('/imagens/banner-topo.jpg');
+    background-image: url('./imagens/banner-topo.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
